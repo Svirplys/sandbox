@@ -1,4 +1,5 @@
-sandbox
-=======
+sandbox application
+==================
 
-A place to learn Git
+This application is used for testing purpose only.
+
