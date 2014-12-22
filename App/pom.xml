@@ -8,6 +8,10 @@
   <packaging>jar</packaging>
 
   <name>App</name>
+  
+  <description>
+  Some description
+  </description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
